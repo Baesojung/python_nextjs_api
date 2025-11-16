@@ -18,6 +18,10 @@ ETF_LIST: List[ETFConfig] = [
     ETFConfig(label="VOO", yahoo_symbol="VOO", region="US"),
     ETFConfig(label="QQQ", yahoo_symbol="QQQ", region="US"),
     ETFConfig(label="SPY", yahoo_symbol="SPY", region="US"),
+    ETFConfig(label="KODEX 200", yahoo_symbol="069500.KS", region="KR"),
+    ETFConfig(label="TIGER 200", yahoo_symbol="102110.KS", region="KR"),
+    ETFConfig(label="TQQQ", yahoo_symbol="TQQQ", region="US"),
+    ETFConfig(label="UPRO", yahoo_symbol="UPRO", region="US"),
 ]
 
 
